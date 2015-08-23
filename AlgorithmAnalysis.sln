@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmAnalysis", "AlgorithmAnalysis\AlgorithmAnalysis.vcxproj", "{46055745-B999-4CDF-A7E1-F57977631251}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmAnalysisLib", "AlgorithmAnalysisLib\AlgorithmAnalysisLib.vcxproj", "{352F8E4D-1177-4B9F-8BBB-1487384CD20A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgorithmAnalysisTests", "AlgorithmAnalysisTests\AlgorithmAnalysisTests.vcxproj", "{0FC93B58-B637-4CE5-A805-C310F03DA9EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46055745-B999-4CDF-A7E1-F57977631251}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46055745-B999-4CDF-A7E1-F57977631251}.Debug|Win32.Build.0 = Debug|Win32
+		{46055745-B999-4CDF-A7E1-F57977631251}.Release|Win32.ActiveCfg = Release|Win32
+		{46055745-B999-4CDF-A7E1-F57977631251}.Release|Win32.Build.0 = Release|Win32
+		{352F8E4D-1177-4B9F-8BBB-1487384CD20A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{352F8E4D-1177-4B9F-8BBB-1487384CD20A}.Debug|Win32.Build.0 = Debug|Win32
+		{352F8E4D-1177-4B9F-8BBB-1487384CD20A}.Release|Win32.ActiveCfg = Release|Win32
+		{352F8E4D-1177-4B9F-8BBB-1487384CD20A}.Release|Win32.Build.0 = Release|Win32
+		{0FC93B58-B637-4CE5-A805-C310F03DA9EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FC93B58-B637-4CE5-A805-C310F03DA9EB}.Debug|Win32.Build.0 = Debug|Win32
+		{0FC93B58-B637-4CE5-A805-C310F03DA9EB}.Release|Win32.ActiveCfg = Release|Win32
+		{0FC93B58-B637-4CE5-A805-C310F03DA9EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
